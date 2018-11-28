@@ -1,6 +1,9 @@
 # rsv_model_fitting
 Code for fitting SEIRS transmission models for respiratory syncytial virus (RSV) to incidence data.
 
+## Authors
+Code authors: Alexandra B Hogan, Roslyn I Hickson, Geoffry N Mercer, Hannah C Moore, Kathryn Glass (2016).
+
 ## About the model
 The model here is an ordinary differential equation (ODE) transmission model for RSV transmission for two age classes. This model is published in:  
 
